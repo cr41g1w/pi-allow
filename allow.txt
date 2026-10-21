@@ -69,3 +69,4 @@ msftncsi.com
 microsoft.com
 spotify.com
 youtu.be
+wl.spotify.com
