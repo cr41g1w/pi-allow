@@ -6,6 +6,7 @@ aspnetcdn.com
 azure.com
 azure.net
 doubleclick.net
+ad.doubleclick.net
 googleadservices.com
 live.com
 microsoft.com
