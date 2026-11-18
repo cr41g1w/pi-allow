@@ -1,13 +1,42 @@
+# ==========================================
+# Stats.fm & Streaming Dependencies
+# ==========================================
+# Wildcard domains (ABP syntax)
+||stats.fm^
+||mzstatic.com^
+||purchasely.io^
+||pusher.com^
+
+# Stats.fm & Spotify exact domains
+spotistats.app
+spotify.com
+accounts.spotify.com
+api.spotify.com
+open.spotify.com
+wl.spotify.com
+i.scdn.co
+
+# Apple Music
+music.apple.com
+api.music.apple.com
+
+# Firebase, Messaging & Crash Reporting
+firebaseinstallations.googleapis.com
+firebaseremoteconfig.googleapis.com
+fcm.googleapis.com
+spotistats-a49da.firebaseio.com
+app-measurement.com
+crashlyticsreports-pa.googleapis.com
+
+# ==========================================
+# Microsoft, Office 365 & Azure
+# ==========================================
 accesscontrol.windows.net
 activedirectory.windowsazure.com
 aka.ms
-akamaihd.net
 aspnetcdn.com
 azure.com
 azure.net
-doubleclick.net
-ad.doubleclick.net
-googleadservices.com
 live.com
 microsoft.com
 microsoftazuread-sso.com
@@ -27,33 +56,15 @@ onedrive.com
 outlook.com
 sharepointonline.com
 skype.com
-spotify.com
 trafficmanager.net
-wl.spotify.com
 windows.net
+
+# ==========================================
+# Ads, Google Services & CDNs
+# ==========================================
+akamaihd.net
+doubleclick.net
+ad.doubleclick.net
+googleadservices.com
 www.googleadservices.com
 youtu.be
-stats.fm
-api.stats.fm
-api-v2.stats.fm
-beta-api.stats.fm
-ws-api.stats.fm
-cdn.stats.fm
-cdn-media.stats.fm
-import.stats.fm
-apple.stats.fm
-translate.stats.fm
-status.stats.fm
-spotistats.app
-accounts.spotify.com
-api.spotify.com
-open.spotify.com
-i.scdn.co
-music.apple.com
-api.music.apple.com
-firebaseinstallations.googleapis.com
-firebaseremoteconfig.googleapis.com
-fcm.googleapis.com
-spotistats-a49da.firebaseio.com
-app-measurement.com
-crashlyticsreports-pa.googleapis.com
